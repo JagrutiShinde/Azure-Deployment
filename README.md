@@ -1,5 +1,5 @@
 # Azure-Deployment
-Deploying Machine Learning Models via Microsoft Azure
+Deploying flight price predication machine learning model via Microsoft Azure.
 
 Deployement Link:
 
